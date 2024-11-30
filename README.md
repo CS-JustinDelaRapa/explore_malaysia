@@ -10,11 +10,32 @@ Showcasing featured properties and quick access to key features
 
 ### Property Details
 Detailed property information with images, specifications, and location
-![Property Details Demo](assets/demos/property_details.gif)
+![Property Details Demo](assets/demos/details.gif)
 
 ### Search Experience
 Advanced search functionality with filters and real-time results
 ![Search Screen Demo](assets/demos/search.gif)
+
+## Design
+
+### Figma Design Preview
+View our complete design system and UI components:
+
+[Open Figma Design](https://www.figma.com/design/VaIOYJobR1b62O0jtmuAaM/Explore-Malaysia?embed-host=share)
+
+<details>
+<summary>Embed Code (for web)</summary>
+
+```html
+<iframe 
+  style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+  width="800" 
+  height="450" 
+  src="https://embed.figma.com/design/VaIOYJobR1b62O0jtmuAaM/Explore-Malaysia?embed-host=share" 
+  allowfullscreen
+></iframe>
+```
+</details>
 
 ## Features
 
