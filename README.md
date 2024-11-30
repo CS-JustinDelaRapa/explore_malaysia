@@ -10,7 +10,7 @@ Showcasing featured properties and quick access to key features
 
 ### Property Details
 Detailed property information with images, specifications, and location
-![Property Details Demo](assets/demos/property_detaills.gif)
+![Property Details Demo](assets/demos/property_details.gif)
 
 ### Search Experience
 Advanced search functionality with filters and real-time results
